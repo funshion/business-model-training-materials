@@ -8,7 +8,8 @@ Training Share "Business model, code first & persistence"
 contents
 
 - DDD, business domain model，UML or not
-- code first and layered architecture
+- code first 
+- layered architecture
 - Java persistence options (iBatis, Hibernate, JPA2, Spring Data)
 
 JPA2/Hibernate database generation or read-oly mode
