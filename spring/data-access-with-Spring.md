@@ -2,7 +2,7 @@
 From Spring Framework Reference Documentation
 3.2.3.RELEASE
 
-![](data-access-wtih-Spring.PNG)
+![](data-access-with-Spring.PNG)
 
     15. Object Relational Mapping (ORM) Data Access  
     15.1 Introduction to ORM with Spring  
