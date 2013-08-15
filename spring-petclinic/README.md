@@ -1,5 +1,4 @@
 
-
 ## Example Spring-petclinic
 
 - code <https://github.com/SpringSource/spring-petclinic>
@@ -8,6 +7,15 @@
 overview  
 
 ![](packages.PNG)
+
+Domain object - entity.  
+
+![](ModelClasses-annotated.png)
+
+Note: inclusion of ORM mapping into domain code (using annotations instead of XML binding) is violation of Layered Architecture principles (independence of layers).
+However this is simpler (maintaining 1 file instead of 2; annotation don't affect code behavior, e.g. Unit test can run OK )
+
+![](Owner.PNG)
 
 Repository is interface that defines access methods:
 
